@@ -42,6 +42,8 @@ From there, enter your contact information, help topic, a summary of the issue, 
 
 <p> 
 <img width="2126" height="1116" alt="image" src="https://github.com/user-attachments/assets/32f817be-4558-46f9-87d1-2a7fa0b86a41" />
+</p>
+<p>
 From the administration side, you should see the ticket submitted from a user. In this example, Karen submitted a ticket about the mobile/online banking system being down. Open the ticket.
 </p>
 <br />
@@ -58,4 +60,12 @@ Here, you should be able to see the activity on the ticket. John left the note t
   <img width="2056" height="1908" alt="image" src="https://github.com/user-attachments/assets/2c0d0423-a7ac-4953-b064-328aeacd2b27" />
 </p>
 <p>
-Here, Jane sees the updated posts and types in the text box under "Response" as to the possible reason for the issue. Click "Post Reply".
+Jane sees the updated posts and types in the text box under "Response" as to the possible reason for the issue. Click "Post Reply".
+
+<p>
+<img width="2040" height="1766" alt="image" src="https://github.com/user-attachments/assets/1dc6522f-6068-482b-88a2-dfda2c2fef0b" />
+</p>
+<p>
+Jane has been able to restart the server and resolve the issue. She pinged, or called, Karen to confirm that the system is running again. Once she has a confirmation, she will close the ticket. 
+
+<p>
