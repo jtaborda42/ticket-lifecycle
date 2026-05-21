@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="1882" height="1268" alt="image" src="https://github.com/user-attachments/assets/b307a57f-39c0-4186-858c-6632e68a8eab"/>
 </p>
 <p>
-To open a new ticket, click on "Open a new ticket" on the support page of osTicket.
+To open a new ticket on the support page, click on "Open a new ticket".
 </p>
 <br />
 
@@ -36,14 +36,12 @@ To open a new ticket, click on "Open a new ticket" on the support page of osTick
 <img width="1688" height="1990" alt="image" src="https://github.com/user-attachments/assets/87977bf8-7bb8-4baa-ae5f-6bb508ed3f88"/>
 </p>
 <p>
-From there, enter your contact information, help topic, a summary of the issue, and in the comment box, enter as much information about when the issue started.
+From there, enter your contact information, help topic, a summary of the issue, and in the comment box, enter as much information about when the issue started. Once all is filled out, click "create ticket."
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> 
+<img width="2126" height="1116" alt="image" src="https://github.com/user-attachments/assets/32f817be-4558-46f9-87d1-2a7fa0b86a41" />
+From the administration side, you should see the ticket submitted from a user. In this example, Karen submitted a ticket about the mobile/online banking system being down. Open the ticket.
 </p>
 <br />
