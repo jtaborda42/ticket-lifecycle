@@ -72,4 +72,4 @@ Jane has been able to restart the server and resolve the issue. She pinged, or c
 <img width="2034" height="1522" alt="image" src="https://github.com/user-attachments/assets/f5a1ab46-2751-4742-9020-c75e92192039" />
 </p>
 <p>
-At the top of the ticket, Jane clicks on the "Open" tab (next to status), clicks on "resolved". A window will pop up to confirm. Click on close and the ticket should be closed.
+At the top of the ticket, Jane clicks on the "Open" tab (next to status), clicks on "closed". A window will pop up to confirm the closure of the ticket. In the text box, you can type in notes such as "root cause anaylsis completed and the issue has been confirmed to be resolved." Click on close and the ticket is now closed.
