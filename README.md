@@ -69,3 +69,7 @@ Jane sees the updated posts and types in the text box under "Response" as to the
 Jane has been able to restart the server and resolve the issue. She pinged, or called, Karen to confirm that the system is running again. Once she has a confirmation, she will close the ticket. 
 
 <p>
+<img width="2034" height="1522" alt="image" src="https://github.com/user-attachments/assets/f5a1ab46-2751-4742-9020-c75e92192039" />
+</p>
+<p>
+At the top of the ticket, Jane clicks on the "Open" tab (next to status), clicks on "resolved". A window will pop up to confirm. Click on close and the ticket should be closed.
