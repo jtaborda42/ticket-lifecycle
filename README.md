@@ -45,3 +45,10 @@ From there, enter your contact information, help topic, a summary of the issue, 
 From the administration side, you should see the ticket submitted from a user. In this example, Karen submitted a ticket about the mobile/online banking system being down. Open the ticket.
 </p>
 <br />
+
+<p>
+<img width="2010" height="1756" alt="image" src="https://github.com/user-attachments/assets/131169e7-8c2b-4d63-9927-971f66556fe6" />
+</p>
+<p>
+Here, you should be able to see the activity on the ticket. John left the note that he could only have "read access" only. From there, Jorge called the user, labeled SLA (service level agreement) as business critical, updated the topic, and assigned the ticket to the SysAdmin department.
+</p>
