@@ -52,3 +52,10 @@ From the administration side, you should see the ticket submitted from a user. I
 <p>
 Here, you should be able to see the activity on the ticket. John left the note that he could only have "read access" only. From there, Jorge called the user, labeled SLA (service level agreement) as business critical, updated the topic, and assigned the ticket to the SysAdmin department.
 </p>
+<br />
+
+<p>
+  <img width="2056" height="1908" alt="image" src="https://github.com/user-attachments/assets/2c0d0423-a7ac-4953-b064-328aeacd2b27" />
+</p>
+<p>
+Here, Jane sees the updated posts and types in the text box under "Response" as to the possible reason for the issue. Click "Post Reply".
